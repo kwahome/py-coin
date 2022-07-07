@@ -1,4 +1,4 @@
-# PyCoin 1: Transactions and verification
+# PyCoin
 
 ## Introduction
 
