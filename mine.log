@@ -1,0 +1,270 @@
+About to mine block
+Block 3dc96b54d7b469b083518dcef2996db5980e3740a7e5cb5031bb61827f1c8449 failed validation Invalid proof of work.
+Attempting mining with difficulty: '31997640'
+Mined block: '00000028ab6b2c0aa761dd306ba882bcfe1bcddcf066fcebdac9e0e34261028f'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "0000003c1de7a02d9720027b349c24c16deec93f3e9fd5e5a25e72f09c3f6b8c", "height": 3336, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630349609, "difficulty": 31997640, "block_id": "00000028ab6b2c0aa761dd306ba882bcfe1bcddcf066fcebdac9e0e34261028f", "nonce": 15684479015507558568}]}
+Sending {"type": "update_state", "height": 3337, "block_id": "00000028ab6b2c0aa761dd306ba882bcfe1bcddcf066fcebdac9e0e34261028f", "total_difficulty": 185444034560}
+Got message {'type': 'blocks', 'blocks': [{'previous': '0000003c1de7a02d9720027b349c24c16deec93f3e9fd5e5a25e72f09c3f6b8c', 'height': 3336, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630349609, 'difficulty': 31997640, 'block_id': '00000028ab6b2c0aa761dd306ba882bcfe1bcddcf066fcebdac9e0e34261028f', 'nonce': 15684479015507558568}]}
+Got message {'type': 'update_state', 'height': 3337, 'block_id': '00000028ab6b2c0aa761dd306ba882bcfe1bcddcf066fcebdac9e0e34261028f', 'total_difficulty': 185444034560}
+Attempting mining with difficulty: '20996880'
+Mined block: 'e96c1d37a789dd7686311892fcf8959ae4dd3a192a05fa659377091b6c345bc9'
+
+About to mine blockBlock
+e96c1d37a789dd7686311892fcf8959ae4dd3a192a05fa659377091b6c345bc9 failed validation Invalid proof of work.
+Attempting mining with difficulty: '20996880'
+Mined block: '181c0d5d08945cb702b7e89af24e1b4c336bea4fc8ad75684e99186dd1cadff7'
+
+About to mine blockBlock
+ 181c0d5d08945cb702b7e89af24e1b4c336bea4fc8ad75684e99186dd1cadff7 failed validation Invalid proof of work.
+Attempting mining with difficulty: '20996880'
+Mined block: '2f5b4cbe8f14b7377a6b85506557ec6030e862352d005b15597c695cb5829b4e'
+
+About to mine blockBlock 2f5b4cbe8f14b7377a6b85506557ec6030e862352d005b15597c695cb5829b4e failed validation Invalid proof of work.
+
+Attempting mining with difficulty: '20996880'
+Mined block: '000000c5daee653572f48e87f62d10ba8ef863bb169a5231ea66b482b91de634'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "00000028ab6b2c0aa761dd306ba882bcfe1bcddcf066fcebdac9e0e34261028f", "height": 3337, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630349661, "difficulty": 20996880, "block_id": "000000c5daee653572f48e87f62d10ba8ef863bb169a5231ea66b482b91de634", "nonce": 15355861866328319122}]}
+Sending {"type": "update_state", "height": 3338, "block_id": "000000c5daee653572f48e87f62d10ba8ef863bb169a5231ea66b482b91de634", "total_difficulty": 185465031440}
+Got message {'type': 'blocks', 'blocks': [{'previous': '00000028ab6b2c0aa761dd306ba882bcfe1bcddcf066fcebdac9e0e34261028f', 'height': 3337, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630349661, 'difficulty': 20996880, 'block_id': '000000c5daee653572f48e87f62d10ba8ef863bb169a5231ea66b482b91de634', 'nonce': 15355861866328319122}]}
+Got message {'type': 'update_state', 'height': 3338, 'block_id': '000000c5daee653572f48e87f62d10ba8ef863bb169a5231ea66b482b91de634', 'total_difficulty': 185465031440}
+Attempting mining with difficulty: '21058200'
+Mined block: 'de3adb27803611466559590c9aadb7383e8bb0d3cba7e5521ca5f5076b3fcc19'
+
+About to mine block
+Attempting mining with difficulty: '9286800'
+Mined block: '000000502d3e75b7843da3a2024e0c1081e1aa50c220d4aeff9a430c6e531b6a'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "00000025f88846281aa55170c3d451dd64d06ffb7852ee9b375ba634f8cbaef4", "height": 3346, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630351214, "difficulty": 9286800, "block_id": "000000502d3e75b7843da3a2024e0c1081e1aa50c220d4aeff9a430c6e531b6a", "nonce": 10957034547056398254}]}
+Sending {"type": "update_state", "height": 3347, "block_id": "000000502d3e75b7843da3a2024e0c1081e1aa50c220d4aeff9a430c6e531b6a", "total_difficulty": 185594292320}
+Got message {'type': 'blocks', 'blocks': [{'previous': '00000025f88846281aa55170c3d451dd64d06ffb7852ee9b375ba634f8cbaef4', 'height': 3346, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630351214, 'difficulty': 9286800, 'block_id': '000000502d3e75b7843da3a2024e0c1081e1aa50c220d4aeff9a430c6e531b6a', 'nonce': 10957034547056398254}]}
+Got message {'type': 'update_state', 'height': 3347, 'block_id': '000000502d3e75b7843da3a2024e0c1081e1aa50c220d4aeff9a430c6e531b6a', 'total_difficulty': 185594292320}
+Attempting mining with difficulty: '11234160'
+Mined block: 'e367724c32ad2c4508735c97a0355619616927bbf9cad5302c573c8d99564024'
+
+About to mine block
+Attempting mining with difficulty: '9694800'
+Mined block: '000000683037221caba50f55bcca124aeebb66d85e885525ac385a2e18e02393'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "000000f056b81d2ce82c2c82755a2afc3fbf4f8520c0c204e0189636cbe5c678", "height": 3348, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630351526, "difficulty": 9694800, "block_id": "000000683037221caba50f55bcca124aeebb66d85e885525ac385a2e18e02393", "nonce": 2187396502505971943}]}
+Sending {"type": "update_state", "height": 3349, "block_id": "000000683037221caba50f55bcca124aeebb66d85e885525ac385a2e18e02393", "total_difficulty": 185615221280}
+Got message {'type': 'blocks', 'blocks': [{'previous': '000000f056b81d2ce82c2c82755a2afc3fbf4f8520c0c204e0189636cbe5c678', 'height': 3348, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630351526, 'difficulty': 9694800, 'block_id': '000000683037221caba50f55bcca124aeebb66d85e885525ac385a2e18e02393', 'nonce': 2187396502505971943}]}
+Got message {'type': 'update_state', 'height': 3349, 'block_id': '000000683037221caba50f55bcca124aeebb66d85e885525ac385a2e18e02393', 'total_difficulty': 185615221280}
+Attempting mining with difficulty: '9984360'
+Mined block: 'ce497ac22426acbb070f9fe3477f6d4cd058d559c6a85beaf87c37a3de74c53d'
+
+About to mine block
+Attempting mining with difficulty: '12399720'
+Mined block: '0000006f0f73f688426e37a93511236c618ca8574d404d9f2fa8905778a539d5'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "0000012543757ef6c4c91aa8fe697af46bfc05310b7aea25d9debfacebface8c", "height": 3351, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630351702, "difficulty": 12399720, "block_id": "0000006f0f73f688426e37a93511236c618ca8574d404d9f2fa8905778a539d5", "nonce": 15982493787429161606}]}
+Sending {"type": "update_state", "height": 3352, "block_id": "0000006f0f73f688426e37a93511236c618ca8574d404d9f2fa8905778a539d5", "total_difficulty": 185648235800}
+Got message {'type': 'blocks', 'blocks': [{'previous': '0000012543757ef6c4c91aa8fe697af46bfc05310b7aea25d9debfacebface8c', 'height': 3351, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630351702, 'difficulty': 12399720, 'block_id': '0000006f0f73f688426e37a93511236c618ca8574d404d9f2fa8905778a539d5', 'nonce': 15982493787429161606}]}
+Got message {'type': 'update_state', 'height': 3352, 'block_id': '0000006f0f73f688426e37a93511236c618ca8574d404d9f2fa8905778a539d5', 'total_difficulty': 185648235800}
+Attempting mining with difficulty: '13570560'
+Mined block: 'f49585e4c8aabe83220a28d3cadcd44c6b460b8f5f593d3412310404b23c3066'
+
+About to mine block
+Attempting mining with difficulty: '13570560'
+Mined block: '0000008519da9e0ccbbc91217e76d3e84eb6932f37a49bd8928420a3f4a3f6b6'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "0000006f0f73f688426e37a93511236c618ca8574d404d9f2fa8905778a539d5", "height": 3352, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630351744, "difficulty": 13570560, "block_id": "0000008519da9e0ccbbc91217e76d3e84eb6932f37a49bd8928420a3f4a3f6b6", "nonce": 5056862010283866364}]}
+Sending {"type": "update_state", "height": 3353, "block_id": "0000008519da9e0ccbbc91217e76d3e84eb6932f37a49bd8928420a3f4a3f6b6", "total_difficulty": 185661806360}
+Got message {'type': 'blocks', 'blocks': [{'previous': '0000006f0f73f688426e37a93511236c618ca8574d404d9f2fa8905778a539d5', 'height': 3352, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630351744, 'difficulty': 13570560, 'block_id': '0000008519da9e0ccbbc91217e76d3e84eb6932f37a49bd8928420a3f4a3f6b6', 'nonce': 5056862010283866364}]}
+Got message {'type': 'update_state', 'height': 3353, 'block_id': '0000008519da9e0ccbbc91217e76d3e84eb6932f37a49bd8928420a3f4a3f6b6', 'total_difficulty': 185661806360}
+Attempting mining with difficulty: '14188560'
+Mined block: '0000000e4e79dd7366cafd4986ceb508c365458011206d230bdd7888741bde78'
+
+About to mine block
+Attempting mining with difficulty: '14188560'
+Mined block: '0000000e4e79dd7366cafd4986ceb508c365458011206d230bdd7888741bde78'
+
+About to mine blockSending
+{"type": "blocks", "blocks": [{"previous": "0000008519da9e0ccbbc91217e76d3e84eb6932f37a49bd8928420a3f4a3f6b6", "height": 3353, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630351749, "difficulty": 14188560, "block_id": "0000000e4e79dd7366cafd4986ceb508c365458011206d230bdd7888741bde78", "nonce": 3388160669483075065}]}
+Sending {"type": "update_state", "height": 3354, "block_id": "0000000e4e79dd7366cafd4986ceb508c365458011206d230bdd7888741bde78", "total_difficulty": 185675994920}
+Got message {'type': 'blocks', 'blocks': [{'previous': '0000008519da9e0ccbbc91217e76d3e84eb6932f37a49bd8928420a3f4a3f6b6', 'height': 3353, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630351749, 'difficulty': 14188560, 'block_id': '0000000e4e79dd7366cafd4986ceb508c365458011206d230bdd7888741bde78', 'nonce': 3388160669483075065}]}
+Got message {'type': 'update_state', 'height': 3354, 'block_id': '0000000e4e79dd7366cafd4986ceb508c365458011206d230bdd7888741bde78', 'total_difficulty': 185675994920}
+Attempting mining with difficulty: '15931080'
+Mined block: '1d850ce6c05ead53e030f715099712b795d15cb4afe51fd0926a1bfe07892ca8'
+
+About to mine block
+Attempting mining with difficulty: '4499520'
+Mined block: '0000009430879847d0c6071ee8b1167b986f4362b74c4465fa7aca7deb59d969'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "000000618c489edafe330b0d5c5c0e1383903c929fc80bb54697d0bf621c3cf4", "height": 3364, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630354046, "difficulty": 4499520, "block_id": "0000009430879847d0c6071ee8b1167b986f4362b74c4465fa7aca7deb59d969", "nonce": 3917013951839342168}]}
+Sending {"type": "update_state", "height": 3365, "block_id": "0000009430879847d0c6071ee8b1167b986f4362b74c4465fa7aca7deb59d969", "total_difficulty": 185763774560}
+Got message {'type': 'blocks', 'blocks': [{'previous': '000000618c489edafe330b0d5c5c0e1383903c929fc80bb54697d0bf621c3cf4', 'height': 3364, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630354046, 'difficulty': 4499520, 'block_id': '0000009430879847d0c6071ee8b1167b986f4362b74c4465fa7aca7deb59d969', 'nonce': 3917013951839342168}]}
+Attempting mining with difficulty: '3888960'
+Got message {'type': 'update_state', 'height': 3365, 'block_id': '0000009430879847d0c6071ee8b1167b986f4362b74c4465fa7aca7deb59d969', 'total_difficulty': 185763774560}
+Mined block: '000002771f3433fcca33b48640b4216115187d355e9ebb872e36515b5dc853ef'
+
+About to mine block
+Attempting mining with difficulty: '3888960'
+Mined block: '000002771f3433fcca33b48640b4216115187d355e9ebb872e36515b5dc853ef'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "0000009430879847d0c6071ee8b1167b986f4362b74c4465fa7aca7deb59d969", "height": 3365, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630354050, "difficulty": 3888960, "block_id": "000002771f3433fcca33b48640b4216115187d355e9ebb872e36515b5dc853ef", "nonce": 3304267893948572053}]}
+Sending {"type": "update_state", "height": 3366, "block_id": "000002771f3433fcca33b48640b4216115187d355e9ebb872e36515b5dc853ef", "total_difficulty": 185767663520}
+Got message {'type': 'blocks', 'blocks': [{'previous': '0000009430879847d0c6071ee8b1167b986f4362b74c4465fa7aca7deb59d969', 'height': 3365, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630354050, 'difficulty': 3888960, 'block_id': '000002771f3433fcca33b48640b4216115187d355e9ebb872e36515b5dc853ef', 'nonce': 3304267893948572053}]}
+Attempting mining with difficulty: '8676840'
+Got message {'type': 'update_state', 'height': 3366, 'block_id': '000002771f3433fcca33b48640b4216115187d355e9ebb872e36515b5dc853ef', 'total_difficulty': 185767663520}
+Mined block: '62cdf797860d4bea807026318a3f0db7878de0b21b2337e939807184eaecef32'
+
+About to mine block
+Attempting mining with difficulty: '15801960'
+Mined block: '00000089e5e80b824a4b8fd8a01c4483debb449c6ba0cdc134861a0bf05232d2'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "000000d6781a0409633f42d6e5e53c88711bd69ec477dfe346a15a77af1fe55b", "height": 3764, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630404855, "difficulty": 15801960, "block_id": "00000089e5e80b824a4b8fd8a01c4483debb449c6ba0cdc134861a0bf05232d2", "nonce": 12664492441586303934}]}
+Sending {"type": "update_state", "height": 3765, "block_id": "00000089e5e80b824a4b8fd8a01c4483debb449c6ba0cdc134861a0bf05232d2", "total_difficulty": 197062225400}
+Got message {'type': 'blocks', 'blocks': [{'previous': '000000d6781a0409633f42d6e5e53c88711bd69ec477dfe346a15a77af1fe55b', 'height': 3764, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630404855, 'difficulty': 15801960, 'block_id': '00000089e5e80b824a4b8fd8a01c4483debb449c6ba0cdc134861a0bf05232d2', 'nonce': 12664492441586303934}]}
+Got message {'type': 'update_state', 'height': 3765, 'block_id': '00000089e5e80b824a4b8fd8a01c4483debb449c6ba0cdc134861a0bf05232d2', 'total_difficulty': 197062225400}
+Attempting mining with difficulty: '16674840'
+
+About to mine block
+Block 260c2534cd89b3f3cab8606bdd23f174be8412dc94472e502903f8b1d4cab0e8 failed validation Invalid proof of work.
+Attempting mining with difficulty: '27940440'
+Mined block: '0000003f451bdf2359ff77e7f5f664c9a429d89dd1fbfd75a0873c85e8e631b8'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "00000098f80b7d4c78e06d458d9aa1f84fd6849c7b17c70d9f95f911b39f4392", "height": 3769, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630405327, "difficulty": 27940440, "block_id": "0000003f451bdf2359ff77e7f5f664c9a429d89dd1fbfd75a0873c85e8e631b8", "nonce": 4748660993398239960}]}
+Sending {"type": "update_state", "height": 3770, "block_id": "0000003f451bdf2359ff77e7f5f664c9a429d89dd1fbfd75a0873c85e8e631b8", "total_difficulty": 197169629480}
+Got message {'type': 'blocks', 'blocks': [{'previous': '00000098f80b7d4c78e06d458d9aa1f84fd6849c7b17c70d9f95f911b39f4392', 'height': 3769, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630405327, 'difficulty': 27940440, 'block_id': '0000003f451bdf2359ff77e7f5f664c9a429d89dd1fbfd75a0873c85e8e631b8', 'nonce': 4748660993398239960}]}
+Got message {'type': 'update_state', 'height': 3770, 'block_id': '0000003f451bdf2359ff77e7f5f664c9a429d89dd1fbfd75a0873c85e8e631b8', 'total_difficulty': 197169629480}
+Attempting mining with difficulty: '27621480'
+Mined block: '557826c359d57629404d103af5c50d418b408c621b1de28e0a115a8f9b0f2408'
+
+About to mine block
+Attempting mining with difficulty: '16595520'
+Mined block: '0000006a822484da4c564c51270f41efeee004840d5f5dbc6a4424ce15e58dce'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "0000001b7e5b5387e9d3b8240ddb9338d47dfc56f05d2182176d0bdbac6e77ac", "height": 3781, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630406993, "difficulty": 16595520, "block_id": "0000006a822484da4c564c51270f41efeee004840d5f5dbc6a4424ce15e58dce", "nonce": 8013345785015617933}]}
+Sending {"type": "update_state", "height": 3782, "block_id": "0000006a822484da4c564c51270f41efeee004840d5f5dbc6a4424ce15e58dce", "total_difficulty": 197423366360}
+Got message {'type': 'blocks', 'blocks': [{'previous': '0000001b7e5b5387e9d3b8240ddb9338d47dfc56f05d2182176d0bdbac6e77ac', 'height': 3781, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630406993, 'difficulty': 16595520, 'block_id': '0000006a822484da4c564c51270f41efeee004840d5f5dbc6a4424ce15e58dce', 'nonce': 8013345785015617933}]}
+Got message {'type': 'update_state', 'height': 3782, 'block_id': '0000006a822484da4c564c51270f41efeee004840d5f5dbc6a4424ce15e58dce', 'total_difficulty': 197423366360}
+Attempting mining with difficulty: '18426720'
+Mined block: '69c112d64f7ccbceba6f1f6e214361bdfca265da52a31d209b2c70596c2c4323'
+
+About to mine block
+Block dfb2a12681310b97fbda7d55f7a9ec92dcf031497ad58343405db76fb9ff9d77 failed validation Invalid proof of work.
+Attempting mining with difficulty: '25210920'
+Mined block: '0000001b7992656e8586f92aa21321f081e1fd4d68bba22efec2d4c1f1a3af01'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "00000050f2b7d34fd6d32fa1a046d1c9c587bf97752182d3d79f458aabb70c58", "height": 4367, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630483016, "difficulty": 25210920, "block_id": "0000001b7992656e8586f92aa21321f081e1fd4d68bba22efec2d4c1f1a3af01", "nonce": 10708833232317142512}]}
+Sending {"type": "update_state", "height": 4368, "block_id": "0000001b7992656e8586f92aa21321f081e1fd4d68bba22efec2d4c1f1a3af01", "total_difficulty": 230199641960}
+Got message {'type': 'blocks', 'blocks': [{'previous': '00000050f2b7d34fd6d32fa1a046d1c9c587bf97752182d3d79f458aabb70c58', 'height': 4367, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630483016, 'difficulty': 25210920, 'block_id': '0000001b7992656e8586f92aa21321f081e1fd4d68bba22efec2d4c1f1a3af01', 'nonce': 10708833232317142512}]}
+Got message {'type': 'update_state', 'height': 4368, 'block_id': '0000001b7992656e8586f92aa21321f081e1fd4d68bba22efec2d4c1f1a3af01', 'total_difficulty': 230199641960}
+Attempting mining with difficulty: '24286080'
+Mined block: 'ccd25b2aa094c7534fbd217bf4038877c0632b4acf8ca523fa162e71d6658c38'
+
+About to mine block
+Block 97dac54ac09de92d0a4602c28e77cb9da2321b3f2cffa8c3fb073689cfd10474 failed validation Invalid proof of work.
+Attempting mining with difficulty: '22346640'
+Mined block: '000000b66789222cbb8cf92cef41f769d24ba68d72b697487d24c269288844e7'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "000000a42e04001768e8141da8a7cb1f61e912ca8c083355208135532ccd140b", "height": 4369, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630483211, "difficulty": 22346640, "block_id": "000000b66789222cbb8cf92cef41f769d24ba68d72b697487d24c269288844e7", "nonce": 5821608176030713785}]}
+Sending {"type": "update_state", "height": 4370, "block_id": "000000b66789222cbb8cf92cef41f769d24ba68d72b697487d24c269288844e7", "total_difficulty": 230246274680}
+Got message {'type': 'blocks', 'blocks': [{'previous': '000000a42e04001768e8141da8a7cb1f61e912ca8c083355208135532ccd140b', 'height': 4369, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630483211, 'difficulty': 22346640, 'block_id': '000000b66789222cbb8cf92cef41f769d24ba68d72b697487d24c269288844e7', 'nonce': 5821608176030713785}]}
+Got message {'type': 'update_state', 'height': 4370, 'block_id': '000000b66789222cbb8cf92cef41f769d24ba68d72b697487d24c269288844e7', 'total_difficulty': 230246274680}
+Attempting mining with difficulty: '21505800'
+Mined block: '72a6424cfcc86b5fbb400b4573002d8018c58c5ac2aeea7f0a08acf422a636fe'
+
+About to mine block
+Block e80e87dbd9c2b243e656e60cfa7e8f389d9947d0befec78fb10ad48c68b74ae4 failed validation Invalid proof of work.
+Attempting mining with difficulty: '22205160'
+Mined block: '0000009efc085fbbf95a174b1add2b0205f0d71b66d4b6ef9f554d9a14d0640e'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "000000132d23b05a128250598ad7c58ff2b9413a6e808775f565312e228c89ab", "height": 4374, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630483662, "difficulty": 22205160, "block_id": "0000009efc085fbbf95a174b1add2b0205f0d71b66d4b6ef9f554d9a14d0640e", "nonce": 1260640764398892050}]}
+Sending {"type": "update_state", "height": 4375, "block_id": "0000009efc085fbbf95a174b1add2b0205f0d71b66d4b6ef9f554d9a14d0640e", "total_difficulty": 230353075040}
+Attempting mining with difficulty: '26715360'
+Got message {'type': 'blocks', 'blocks': [{'previous': '000000132d23b05a128250598ad7c58ff2b9413a6e808775f565312e228c89ab', 'height': 4374, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630483662, 'difficulty': 22205160, 'block_id': '0000009efc085fbbf95a174b1add2b0205f0d71b66d4b6ef9f554d9a14d0640e', 'nonce': 1260640764398892050}]}
+Got message {'type': 'update_state', 'height': 4375, 'block_id': '0000009efc085fbbf95a174b1add2b0205f0d71b66d4b6ef9f554d9a14d0640e', 'total_difficulty': 230353075040}
+Mined block: 'a4144a416f5c6cdb9f4503e02fa3c307f949d097cea11e24a3b0b28bf404063e'
+
+About to mine block
+Block f95d6bb7d7836a25c4ed0eb58807f0c6ab02bfe88bdb922c9354a25e0a68b250 failed validation Invalid proof of work.
+Attempting mining with difficulty: '39798960'
+Mined block: '0000005ca7714150055557d4c25b3c907408e4f13e76dcbd0f23182d2e4fa534'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "0000007232fddbd9a908564c99ab189350198d6d663a9a842c25ab8a1a688740", "height": 4411, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630488207, "difficulty": 39798960, "block_id": "0000005ca7714150055557d4c25b3c907408e4f13e76dcbd0f23182d2e4fa534", "nonce": 4513562976494250571}]}
+Sending {"type": "update_state", "height": 4412, "block_id": "0000005ca7714150055557d4c25b3c907408e4f13e76dcbd0f23182d2e4fa534", "total_difficulty": 231379863080}
+Got message {'type': 'blocks', 'blocks': [{'previous': '0000007232fddbd9a908564c99ab189350198d6d663a9a842c25ab8a1a688740', 'height': 4411, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630488207, 'difficulty': 39798960, 'block_id': '0000005ca7714150055557d4c25b3c907408e4f13e76dcbd0f23182d2e4fa534', 'nonce': 4513562976494250571}]}
+Attempting mining with difficulty: '43635480'
+Got message {'type': 'update_state', 'height': 4412, 'block_id': '0000005ca7714150055557d4c25b3c907408e4f13e76dcbd0f23182d2e4fa534', 'total_difficulty': 231379863080}
+
+About to mine block
+Block f66f99431406846941bbf378fdae59aa0a427bb17264ecef55e96b0d95d1ff99 failed validation Invalid proof of work.
+Attempting mining with difficulty: '39021600'
+Mined block: '00000003dd3a9a5d8bc9752edab265a1c18f174ac0ae70469bbabb2c3deb3ec1'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "000000431eaad50402ed2302aed29828e7caf1786f0edd125532fc3e0fee58c4", "height": 4416, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630488909, "difficulty": 39021600, "block_id": "00000003dd3a9a5d8bc9752edab265a1c18f174ac0ae70469bbabb2c3deb3ec1", "nonce": 889228875868360786}]}
+Sending {"type": "update_state", "height": 4417, "block_id": "00000003dd3a9a5d8bc9752edab265a1c18f174ac0ae70469bbabb2c3deb3ec1", "total_difficulty": 231566630600}
+Got message {'type': 'blocks', 'blocks': [{'previous': '000000431eaad50402ed2302aed29828e7caf1786f0edd125532fc3e0fee58c4', 'height': 4416, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630488909, 'difficulty': 39021600, 'block_id': '00000003dd3a9a5d8bc9752edab265a1c18f174ac0ae70469bbabb2c3deb3ec1', 'nonce': 889228875868360786}]}
+Got message {'type': 'update_state', 'height': 4417, 'block_id': '00000003dd3a9a5d8bc9752edab265a1c18f174ac0ae70469bbabb2c3deb3ec1', 'total_difficulty': 231566630600}
+Attempting mining with difficulty: '37900920'
+Mined block: 'b22482cc7d673d11656e681b83f0dd037c081e8acdbf8e3dc71eb725f802d012'
+
+About to mine block
+Block d415d8cd3b7362b36d1b765c620be05705137ac9452056cbf1c9487b00373a72 failed validation Invalid proof of work.
+Attempting mining with difficulty: '23530800'
+Mined block: '000000709eb89ecdc71777f3b1a4094cd0f39d8dabced41d7847f564ed51b395'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "000000845b437084061952a99f1e6a59af16f26a08ae8c060f69b7f8b44f2d8e", "height": 4443, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630492660, "difficulty": 23530800, "block_id": "000000709eb89ecdc71777f3b1a4094cd0f39d8dabced41d7847f564ed51b395", "nonce": 7478287271125036989}]}
+Sending {"type": "update_state", "height": 4444, "block_id": "000000709eb89ecdc71777f3b1a4094cd0f39d8dabced41d7847f564ed51b395", "total_difficulty": 232379210360}
+Got message {'type': 'blocks', 'blocks': [{'previous': '000000845b437084061952a99f1e6a59af16f26a08ae8c060f69b7f8b44f2d8e', 'height': 4443, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630492660, 'difficulty': 23530800, 'block_id': '000000709eb89ecdc71777f3b1a4094cd0f39d8dabced41d7847f564ed51b395', 'nonce': 7478287271125036989}]}
+Got message {'type': 'update_state', 'height': 4444, 'block_id': '000000709eb89ecdc71777f3b1a4094cd0f39d8dabced41d7847f564ed51b395', 'total_difficulty': 232379210360}
+Attempting mining with difficulty: '23130960'
+Mined block: 'a091f12f41959a0b2438113617b7923d12bac593aa0b713ed0cd9fbaaa870a4e'
+
+About to mine block
+Block d375cac4cecee0cc4f74a3972be9a98102785090cdab28d37ea9b41b4ccc0244 failed validation Invalid proof of work.
+Attempting mining with difficulty: '19833720'
+Mined block: '00000071d1c0d42889c080d7447dc6ad46b1c450774738bf7a3a6d33bd100d62'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "0000006a5796b0dbfd42b8e0fa0607cb2d7cebc3cf249ee9bc09bb8f618cbf9a", "height": 4449, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630493168, "difficulty": 19833720, "block_id": "00000071d1c0d42889c080d7447dc6ad46b1c450774738bf7a3a6d33bd100d62", "nonce": 7283149582962122345}]}
+Sending {"type": "update_state", "height": 4450, "block_id": "00000071d1c0d42889c080d7447dc6ad46b1c450774738bf7a3a6d33bd100d62", "total_difficulty": 232507022840}
+Got message {'type': 'blocks', 'blocks': [{'previous': '0000006a5796b0dbfd42b8e0fa0607cb2d7cebc3cf249ee9bc09bb8f618cbf9a', 'height': 4449, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630493168, 'difficulty': 19833720, 'block_id': '00000071d1c0d42889c080d7447dc6ad46b1c450774738bf7a3a6d33bd100d62', 'nonce': 7283149582962122345}]}
+Got message {'type': 'update_state', 'height': 4450, 'block_id': '00000071d1c0d42889c080d7447dc6ad46b1c450774738bf7a3a6d33bd100d62', 'total_difficulty': 232507022840}
+Attempting mining with difficulty: '22891320'
+Mined block: '000000914edcecce60fbefc6974394ed4d0ebd60490a3ab922dc3b15663741f1'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "00000071d1c0d42889c080d7447dc6ad46b1c450774738bf7a3a6d33bd100d62", "height": 4450, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630493175, "difficulty": 22891320, "block_id": "000000914edcecce60fbefc6974394ed4d0ebd60490a3ab922dc3b15663741f1", "nonce": 14267373767451790054}]}
+Sending {"type": "update_state", "height": 4451, "block_id": "000000914edcecce60fbefc6974394ed4d0ebd60490a3ab922dc3b15663741f1", "total_difficulty": 232529914160}
+Got message {'type': 'blocks', 'blocks': [{'previous': '00000071d1c0d42889c080d7447dc6ad46b1c450774738bf7a3a6d33bd100d62', 'height': 4450, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630493175, 'difficulty': 22891320, 'block_id': '000000914edcecce60fbefc6974394ed4d0ebd60490a3ab922dc3b15663741f1', 'nonce': 14267373767451790054}]}
+Got message {'type': 'update_state', 'height': 4451, 'block_id': '000000914edcecce60fbefc6974394ed4d0ebd60490a3ab922dc3b15663741f1', 'total_difficulty': 232529914160}
+Attempting mining with difficulty: '28641120'
+Mined block: '029c6edc78384187f6af310995881833941fb0d6d332f1a7cbb3123efe24cc2f'
+
+About to mine block
+Block 5f509b6fa18d7cdfb871d0ff28769f3e3a921541e4a01fb5d9a5504ccbe87173 failed validation Invalid proof of work.
+Attempting mining with difficulty: '34585800'
+Mined block: '00000020fe8d5735bc96b905d84f09dbc8c8dcbae87562748ad22dc0d0a77b31'
+
+About to mine block
+Sending {"type": "blocks", "blocks": [{"previous": "00000019e7d113620a241d227b8d124825a899b10e314e43469a008a68668ccc", "height": 4452, "miner": "ae9268f80cc337c508f4e96a2ee556f563090282", "transactions": [], "timestamp": 1630493273, "difficulty": 34585800, "block_id": "00000020fe8d5735bc96b905d84f09dbc8c8dcbae87562748ad22dc0d0a77b31", "nonce": 13037490983968227783}]}
+Sending {"type": "update_state", "height": 4453, "block_id": "00000020fe8d5735bc96b905d84f09dbc8c8dcbae87562748ad22dc0d0a77b31", "total_difficulty": 232593141080}
+Got message {'type': 'blocks', 'blocks': [{'previous': '00000019e7d113620a241d227b8d124825a899b10e314e43469a008a68668ccc', 'height': 4452, 'miner': 'ae9268f80cc337c508f4e96a2ee556f563090282', 'transactions': [], 'timestamp': 1630493273, 'difficulty': 34585800, 'block_id': '00000020fe8d5735bc96b905d84f09dbc8c8dcbae87562748ad22dc0d0a77b31', 'nonce': 13037490983968227783}]}
+Got message {'type': 'update_state', 'height': 4453, 'block_id': '00000020fe8d5735bc96b905d84f09dbc8c8dcbae87562748ad22dc0d0a77b31', 'total_difficulty': 232593141080}
+Attempting mining with difficulty: '38146320'
+Mined block: 'e58935f553dece3f26eb3b1cdbc40fc61c2a28e210f14893834eab6c505bf25f'
+
+
+Miner private key: <cryptography.hazmat.backends.openssl.ec._EllipticCurvePrivateKey object at 0x0000021597C481C0>
+Miner address: 8d855476b3893b7541616af9334fa216a483c55c
