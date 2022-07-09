@@ -175,7 +175,7 @@ class Block:
 
     @staticmethod
     def _get_or_default_state(states: Mapping[bytes, UserState], user_id: bytes):
-        user_state = states[user_id] = states.get(user_id, UserState(0, -1))
+        user_state = states[user_id] = states.get(user_id, UserState(balance=0, nonce=-1))
         return user_state
 
     def _verify_difficulty(self, difficulty: int):
