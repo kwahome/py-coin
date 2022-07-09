@@ -25,7 +25,7 @@ class BlockConstants:
     Block constants
     """
     BLOCK_HASH_SIZE: int = 256
-    # block reward equals to 10000 Zimcoins
+    # block reward equals to 10000 Pycoins
     BLOCK_REWARD: int = 10_000
     MAX_TRANSACTIONS: int = 25
 
