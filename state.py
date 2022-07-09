@@ -1,7 +1,7 @@
 
 class UserState:
     """
-    Transaction class
+    UserState class
     """
 
     def __init__(self, balance: int, nonce: int):
